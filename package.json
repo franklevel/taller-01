@@ -1,0 +1,14 @@
+{
+  "name": "sorted-squared-array",
+  "version": "1.0.0",
+  "description": "Sorted Squared Array",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Frank Ruiz",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
